@@ -26,7 +26,7 @@
             <TextBox x:Name="InterestOne" Text="Interest #1" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Width="500" Height="60" Margin="0,30,0,0"/>
             <TextBox x:Name="InterestTwo" Text="Interest #2" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Width="500" Height="60" Margin="0,30,0,0" />
             <TextBox x:Name="InterestThree" Text="Interest #3" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Width="500" Height="60" Margin="0,30,0,0"/>
-            <Button Width="500" Height="60" FontSize="20" Foreground="White" Background="#a56f7b" x:Name="Search" Content="Save Interests" Margin="0,30,0,0"/>
+            <Button Width="500" Height="60" FontSize="20" Foreground="White" Background="#a56f7b" x:Name="SaveInterests" Content="Search" Margin="0,30,0,0"/>
         </StackPanel>
     </Grid>
     
