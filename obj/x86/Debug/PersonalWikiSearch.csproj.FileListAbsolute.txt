@@ -210,3 +210,4 @@ C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\Personal
 C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\obj\x86\Debug\PreferencesPage.xbf
 C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\bin\x86\Debug\PreferencesPage.xbf
 C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\obj\x86\Debug\PersonalWikiSearch.csprojResolveAssemblyReference.cache

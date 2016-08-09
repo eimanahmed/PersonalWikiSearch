@@ -23,7 +23,7 @@
             <Image Source="Assets/profile.png" Width="200" Height="200"/>
             <TextBox x:Name="UsernameInput" Padding ="15" Text="Username..." Background="#b98e98" Foreground="White" FontSize="15" Margin="0,30,0,0" Width="200" />
             <TextBox x:Name="PasswordInput" Padding ="15" Text="Password..." Background="#b98e98" Foreground="White" FontSize="15" Margin="0,30,0,0" Width="200" />
-            <Button Content="SubmitInfo" Width="200" Padding="15"  Background="#b98e98" Foreground="White" Margin="0,30,0,0" />
+            <Button Content="Submit" Width="200" Padding="15"  Background="#b98e98" Foreground="White" Margin="0,30,0,0" />
         </StackPanel>
 
 

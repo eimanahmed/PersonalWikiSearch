@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>89c1b3b1-4a67-4920-8470-31be3f08eda1</PackageIdentityName>
     <PackageIdentityPublisher>CN=Eiman</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-08-07T07:33:34.524</Modified>
+      <Modified>2016-08-09T04:29:02.911</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\bin\x86\Debug\PersonalWikiSearch.exe">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\bin\x86\Debug\PersonalWikiSearch.exe">
       <PackagePath>entrypoint\PersonalWikiSearch.exe</PackagePath>
-      <Modified>2016-08-07T07:33:32.667</Modified>
+      <Modified>2016-08-09T04:29:01.058</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eiman\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -452,57 +452,57 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-23T06:11:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\pref.png">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\pref.png">
       <PackagePath>Assets\pref.png</PackagePath>
       <Modified>2016-08-07T05:37:43.163</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\profile.png">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\profile.png">
       <PackagePath>Assets\profile.png</PackagePath>
       <Modified>2016-08-07T02:27:00.897</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\search.png">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\search.png">
       <PackagePath>Assets\search.png</PackagePath>
       <Modified>2016-08-06T22:14:56.180</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-21T00:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-08-06T21:48:48.389</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\bin\x86\Debug\PersonalWikiSearch.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\bin\x86\Debug\PersonalWikiSearch.xr.xml">
       <PackagePath>PersonalWikiSearch.xr.xml</PackagePath>
       <Modified>2016-08-07T05:38:23.888</Modified>
     </AppxPackagedFile>
@@ -510,13 +510,13 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-08-06T20:30:07.703</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-08-07T07:33:34.222</Modified>
+      <Modified>2016-08-09T04:29:02.588</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Eiman\Documents\Visual Studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\bin\x86\Debug\Core\PersonalWikiSearch.exe">
+    <AppxPackagedFile Include="C:\Users\Eiman\documents\visual studio 2015\Projects\PersonalWikiSearch\PersonalWikiSearch\bin\x86\Debug\Core\PersonalWikiSearch.exe">
       <PackagePath>PersonalWikiSearch.exe</PackagePath>
-      <Modified>2016-08-07T07:33:34.516</Modified>
+      <Modified>2016-08-09T04:29:02.904</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
